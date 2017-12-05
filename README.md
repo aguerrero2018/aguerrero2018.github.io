@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to our portfolio
 
-You can use the [editor on GitHub](https://github.com/aguerrero2018/aguerrero2018.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This portfolio was created with a sole purpose; to incite the minds of future generations.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
